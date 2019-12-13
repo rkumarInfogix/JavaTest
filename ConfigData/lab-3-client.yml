@@ -2,5 +2,5 @@
 lucky-word: ramesh singh
 student
   name:Avishek
-  student.age:32
-  student.studentClass:3rd
+  age:32
+  studentClass:3rd
